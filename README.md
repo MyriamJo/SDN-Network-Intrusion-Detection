@@ -21,9 +21,6 @@ The system detects six traffic classes:
 - Overflow attack
 - Diversion attack
 - Blackhole attack
-
----
-
 # Dataset
 
 The project uses the **UNR-IDD (University of Nevada, Reno Intrusion Detection Dataset)**(https://www.kaggle.com/datasets/tapadhirdas/unridd-intrusion-detection-dataset), which contains approximately 37,400 labeled SDN telemetry samples.
